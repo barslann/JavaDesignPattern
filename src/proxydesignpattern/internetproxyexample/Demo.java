@@ -1,4 +1,4 @@
-package proxydesignpattern.InternetProxyExample;
+package proxydesignpattern.internetproxyexample;
 
 import java.util.Scanner;
 

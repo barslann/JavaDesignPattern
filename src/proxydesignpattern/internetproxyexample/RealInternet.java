@@ -1,4 +1,4 @@
-package proxydesignpattern.InternetProxyExample;
+package proxydesignpattern.internetproxyexample;
 
 public class RealInternet implements Internet{
     @Override
