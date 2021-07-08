@@ -1,0 +1,4 @@
+Benefits:
+    One of the advantages of Proxy pattern is security.
+    This pattern avoids duplication of objects which might be huge size and memory intensive. This in turn increases the performance of the application.
+    The remote proxy also ensures about security by installing the local code proxy (stub) in the client machine and then accessing the server with help of the remote code.
