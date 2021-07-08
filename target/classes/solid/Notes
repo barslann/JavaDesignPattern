@@ -7,3 +7,11 @@ Single Responsibility Principle
     A class should gave only one reason to change.
 
     A case that violates this pricinplen would be a method that contains business logic with presentation logic.
+
+
+Open/Closed Principle
+    Question we should ask yourself -> is our design ready to be easily extended?
+
+    Software entities(classes, module, functions, etc) should be open for extension but closed for modification.
+        meaning that our system must be extensible but this extension must be done without modifying the existing code.
+
