@@ -25,3 +25,12 @@ Interface Segregation Principle
 
     ISP is a tool to obtain high cohesion that our clients use
 
+Dependency Inversion Principle
+
+    High level modules should not depend on low-level modules. Both should depend on abstractions
+    Abstractions should depend opon details. Details should depend upon abstractions.
+
+    Changes in low modules may force us to change the high modules, which is an undesirable outcome.To avoid this,
+    we can apply Martin's recommendations that both models should depend on abstractions not implementations
+
+
