@@ -3,9 +3,10 @@ package solid.ocp.test;
 import java.util.Arrays;
 import java.util.List;
 import org.junit.Test;
-import edu.solid.ocp.PrimeNumberGenerator;
 
 import org.junit.Assert;
+import solid.ocp.exercise.PrimeNumberGenerator;
+
 import static org.hamcrest.CoreMatchers.*;
 
 public class Exercise_PrimeNumberGeneratorTests {

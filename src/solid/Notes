@@ -15,3 +15,22 @@ Open/Closed Principle
     Software entities(classes, module, functions, etc) should be open for extension but closed for modification.
         meaning that our system must be extensible but this extension must be done without modifying the existing code.
 
+Liskov Substitution Principle
+
+Interface Segregation Principle
+    The idea is to avoid forcing clients to deal with methods not of interest to them
+    Clients should not be forced to depend on methods they do not use
+
+    The client should always depend on abstractions
+
+    ISP is a tool to obtain high cohesion that our clients use
+
+Dependency Inversion Principle
+
+    High level modules should not depend on low-level modules. Both should depend on abstractions
+    Abstractions should depend opon details. Details should depend upon abstractions.
+
+    Changes in low modules may force us to change the high modules, which is an undesirable outcome.To avoid this,
+    we can apply Martin's recommendations that both models should depend on abstractions not implementations
+
+
