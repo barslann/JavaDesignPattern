@@ -1,0 +1,13 @@
+Effective java book.
+    1.constructor yerine static method kullanilmasi. Cunku constructorlarin ayirt edici isimleri tok ve cagrilmalari zor
+    Hataya sebep olabilir.
+
+    Ama static isimlerin anlamli isimleri var.
+    Nesnelerin construclari private yap. bu contruclari cagiran static methodlar olsun -> Named constructor
+    static methodlara gecilen parametre sayisi, metotlara iyi isim vererek azaltilabilir.
+
+
+    Factory method tan farki su
+        Factory methodda her nesneti ureten ayri bi factory olmali
+        Bloch un cozumunde ise her sinif kendi nesnesinin ureticisi
+

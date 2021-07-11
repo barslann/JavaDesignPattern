@@ -1,0 +1,5 @@
+This solution doesnt follow dingle responsibility(because it does more than one thing) and open/closed principle.
+
+And also it is not a factory method.
+
+Factory pattern says it should create one object. in this solution, static method is able to create 3 objects

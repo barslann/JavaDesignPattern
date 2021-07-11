@@ -1,0 +1,14 @@
+Intent
+    Define a interface for creating an object, but let subclasses decide which class to instantiate.
+
+Factory Method lets a class defer instantiation to subclasses.
+    Bir sinifin nesne olusturmasini alt siniflara otelenmesine izin verir.
+
+   Creation of an object is an important thing in oop. There are a lot of classes that has their own complexities
+   they are created in many places in an project.
+
+
+  Nesnelerin nerede olusturulacagi problemini cozer.
+  Nesnelerin olusturulmasini soyutlar ve bu isi istemci kodlarindan cikarip factory metotlara havale eder.
+
+  Bir interface de tanimlanir ve alt siniflarda gerceklestierilir.
