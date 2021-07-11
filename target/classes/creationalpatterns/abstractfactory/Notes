@@ -1,0 +1,10 @@
+Intent
+    Provide an interface for creating families of related or dependent objects without specifying the concrete classes.
+
+Tek nesne yerine, nesne ailesi olusturmak icin kullanilan kalip
+
+Abstract Factory  is a class -> birden fazla nesnenin olusturulmasini soyutlar
+Factory Method is a method! -> bir nesnenin olusturulmasini soyutlar
+
+Abstract Factory
+    Birlikte kullanilacak nesneleri olusturmaktan sorumlu
